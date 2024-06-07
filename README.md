@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! I'm Reise 👋
 
 <!--
 **reisedawson/reisedawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently doing data stuff in 🏹Nottingham, UK.
