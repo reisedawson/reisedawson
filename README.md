@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently doing data stuff in 🏹Nottingham, UK.
+I'm currently doing data consulting, based out of 🏹Nottingham, UK.
