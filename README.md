@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I'm currently doing data consulting, based out of 🏹Nottingham, UK.
-
-> [!Note] Test
-> Test again
