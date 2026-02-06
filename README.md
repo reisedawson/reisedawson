@@ -1,3 +1,5 @@
+![tests passing](https://img.shields.io/badge/tests-passing-green)
+
 ## Hey! I'm Reise 👋
 
 <!--
