@@ -1,4 +1,4 @@
-![tests passing](https://img.shields.io/badge/tests-passing-green) ![code style](https://img.shields.io/badge/code_style-perfect-pink)
+![tests passing](https://img.shields.io/badge/tests-passing-green) ![code style](https://img.shields.io/badge/code_style-perfect-pink) ![bad humour](https://img.shields.io/badge/humour-poor-red) ![ego](https://img.shields.io/badge/ego-who?-black)
 
 ## Hey! I'm Reise 👋
 
